@@ -1,0 +1,26 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 14 Apr 2020 13:12:15 at https://hslov5.glitch.me/freeforall.html?v= +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://hslov5.glitch.me/freeforall.html?v= -O1 "C:\Users\PC01\Desktop\AGAR" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:14:12	Warning: 	Retry after error -4 (Connect Error) at link https://i.imgur.com/whimIYs.jpg?v=1577328366411 (from https://hslov5.glitch.me/bundle.css)
+13:14:12	Warning: 	Retry after error -4 (Connect Error) at link https://i.imgur.com/NG5DdAR.png?v=1577328653444 (from https://hslov5.glitch.me/bundle.css)
+13:14:12	Warning: 	Retry after error -4 (Connect Error) at link https://i.imgur.com/81fgaTb.png?v=1577328666934 (from https://hslov5.glitch.me/bundle.css)
+13:14:12	Warning: 	Retry after error -4 (Connect Error) at link https://i.imgur.com/fq79zqp.png?v=1577328672051 (from https://hslov5.glitch.me/bundle.css)
+13:14:33	Warning: 	Retry after error -4 (Connect Error) at link https://i.imgur.com/kbfjWV1.png (from https://hslov5.glitch.me/bundle.css)
+13:14:33	Warning: 	Retry after error -4 (Connect Error) at link https://i.imgur.com/whimIYs.jpg?v=1577328366411 (from https://hslov5.glitch.me/bundle.css)
+13:14:33	Warning: 	Retry after error -4 (Connect Error) at link https://i.imgur.com/NG5DdAR.png?v=1577328653444 (from https://hslov5.glitch.me/bundle.css)
+13:14:33	Warning: 	Retry after error -4 (Connect Error) at link https://i.imgur.com/81fgaTb.png?v=1577328666934 (from https://hslov5.glitch.me/bundle.css)
+13:14:54	Warning: 	Retry after error -4 (Connect Error) at link https://i.imgur.com/fq79zqp.png?v=1577328672051 (from https://hslov5.glitch.me/bundle.css)
+13:14:54	Warning: 	Retry after error -4 (Connect Error) at link https://i.imgur.com/kbfjWV1.png (from https://hslov5.glitch.me/bundle.css)
+13:14:54	Error: 	"Connect Error" (-4) after 2 retries at link https://i.imgur.com/whimIYs.jpg?v=1577328366411 (from https://hslov5.glitch.me/bundle.css)
+13:14:54	Error: 	"Connect Error" (-4) after 2 retries at link https://i.imgur.com/NG5DdAR.png?v=1577328653444 (from https://hslov5.glitch.me/bundle.css)
+13:14:54	Error: 	"Connect Error" (-4) after 2 retries at link https://i.imgur.com/81fgaTb.png?v=1577328666934 (from https://hslov5.glitch.me/bundle.css)
+13:15:15	Error: 	"Connect Error" (-4) after 2 retries at link https://i.imgur.com/fq79zqp.png?v=1577328672051 (from https://hslov5.glitch.me/bundle.css)
+13:15:15	Error: 	"Connect Error" (-4) after 2 retries at link https://i.imgur.com/kbfjWV1.png (from https://hslov5.glitch.me/bundle.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 0 seconds : 28 links scanned, 12 files written (1551729 bytes overall) [1147183 bytes received at 6373 bytes/sec], 548272 bytes transferred using HTTP compression in 4 files, ratio 24%
+(5 errors, 10 warnings, 0 messages)
